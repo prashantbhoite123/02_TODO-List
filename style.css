@@ -59,7 +59,7 @@ input::placeholder {
   height: 3vw;
   width: 5vw;
   color: white;
-  font: 1.5vw;
+  font-size: 1.7vw;
   border: 2px solid white;
   background-image: radial-gradient(
     circle 975px at 2.6% 48.3%,
@@ -93,7 +93,7 @@ li {
   list-style: none;
   height: 3vw;
   width: 28vw;
-  font-size: 1.5vw;
+  font-size: 2vw;
   color: black;
   background-image: linear-gradient(
     109.6deg,
